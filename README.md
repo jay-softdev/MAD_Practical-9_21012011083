@@ -10,5 +10,4 @@ output:
 
 ![image](https://github.com/AMANPATEL1108/MAD_Practical-9_21012011063/assets/108643338/9e2014ee-22d4-4571-9825-6625e45d7acc)
 
-![image](https://github.com/AMANPATEL1108/MAD_Practical-9_21012011063/assets/108643338/886fafc7-b3cd-4958-a684-c9b4c9052994)
 
